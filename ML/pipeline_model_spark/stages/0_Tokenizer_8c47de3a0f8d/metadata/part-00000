@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.Tokenizer","timestamp":1753603258953,"sparkVersion":"3.5.1","uid":"Tokenizer_8c47de3a0f8d","paramMap":{"outputCol":"ky_nang_words","inputCol":"ky_nang_combined"},"defaultParamMap":{"outputCol":"Tokenizer_8c47de3a0f8d__output"}}

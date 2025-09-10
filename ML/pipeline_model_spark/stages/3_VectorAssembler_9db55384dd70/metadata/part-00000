@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.VectorAssembler","timestamp":1753603265354,"sparkVersion":"3.5.1","uid":"VectorAssembler_9db55384dd70","paramMap":{"outputCol":"ky_nang_features","inputCols":["ky_nang_w2v"]},"defaultParamMap":{"outputCol":"VectorAssembler_9db55384dd70__output","handleInvalid":"error"}}
